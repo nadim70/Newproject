@@ -29,7 +29,13 @@ To implement this project, follow the below given steps.
 
 ![Capture6](https://user-images.githubusercontent.com/60429108/81190803-e7eb8780-8fd5-11ea-9a53-119c590cdca7.PNG)
 
+6. Now create your final job that will help to download your code from master branch and successfully implement in Production environment.
 
+![Capture7](https://user-images.githubusercontent.com/60429108/81191046-2ed97d00-8fd6-11ea-95fa-f5dc24eeb210.PNG)
+
+![Capture10](https://user-images.githubusercontent.com/60429108/81191088-3d279900-8fd6-11ea-9c55-c9c37dcc3001.PNG)
+
+![Capture9](https://user-images.githubusercontent.com/60429108/81191116-49135b00-8fd6-11ea-8620-5f15cdd56519.PNG)
 
 
 
