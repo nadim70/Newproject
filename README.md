@@ -1,7 +1,7 @@
 <h1>Creating of testing and production environment using docker via jenkins using Git & GitHub.</h1>
 <h2>Here I implemented a project given which relates to create an environment regarding the testing and production with use of technologies like Jenkins,Git,Docker,GitHub</h2>
 
-`UseCase: Whenever a developer  develop’s some  code, before implementing it into production environment it is required to create the same environment to test the code.`
+**`UseCase: Whenever a developer  develop’s some  code, before implementing it into production environment it is required to create the same environment to test the code.`**
 
 
 To implement this project, follow the below given steps.
@@ -39,8 +39,3 @@ To implement this project, follow the below given steps.
 ![Capture10](https://user-images.githubusercontent.com/60429108/81191088-3d279900-8fd6-11ea-9c55-c9c37dcc3001.PNG)
 
 ![Capture9](https://user-images.githubusercontent.com/60429108/81191116-49135b00-8fd6-11ea-8620-5f15cdd56519.PNG)
-
-
-
-
-
