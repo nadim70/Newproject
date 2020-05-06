@@ -23,6 +23,11 @@ To implement this project, follow the below given steps.
 
 ![Capture4](https://user-images.githubusercontent.com/60429108/81190321-524ff800-8fd5-11ea-912c-ddd8a6351cac.PNG)
 
+5. After successful implementation of job1, move to creating a new job that will merge your code to master branch.
+
+![Capture5](https://user-images.githubusercontent.com/60429108/81190668-c4c0d800-8fd5-11ea-8b21-1a2aa8d41863.PNG)
+
+
 
 
 
