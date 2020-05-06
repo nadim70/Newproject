@@ -4,3 +4,4 @@
 UseCase: Whenever a developer  develop’s some  code, before implementing it into production environment it is required to create the same environment to test the code.
 
 ![Capture - Copy](https://user-images.githubusercontent.com/60429108/81188538-0f8d2080-8fd3-11ea-82c5-e93f1d630758.PNG)
+![capture1](https://user-images.githubusercontent.com/60429108/81188714-4ebb7180-8fd3-11ea-9a1b-35a73a23afa9.PNG)
