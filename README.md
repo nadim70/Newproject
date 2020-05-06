@@ -6,7 +6,7 @@ UseCase: Whenever a developer  develop’s some  code, before implementing it in
 
 To implement this project, follow the below given steps.
 
-`1. Create two branch in your local Git repo.`
+**`1. Create two branch in your local Git repo.`**
 
 ![Capture - Copy](https://user-images.githubusercontent.com/60429108/81188538-0f8d2080-8fd3-11ea-82c5-e93f1d630758.PNG)
 
